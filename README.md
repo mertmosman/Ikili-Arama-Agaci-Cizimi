@@ -1,4 +1,4 @@
-# 🧬 Veri Yapıları Ödev - İkili Arama Ağacı Çizdirme Programı
+# 🧬 Veri Yapıları - İkili Arama Ağacı Çizdirme Programı
 
 Bu proje, C++ dili kullanılarak geliştirilmiş bir konsol tabanlı programdır. Amaç, verilen veri yapısıyla (ikili ağaç) konsol ekranında ASCII karakterlerle görsel bir ağaç çizimi gerçekleştirmektir.
 
